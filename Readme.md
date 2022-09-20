@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Ksenia Shaulskaya](https://up.htmlacademy.ru/htmlcss/35/user/2170803).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Зольников](https://htmlacademy.ru/profile/id870391)
 
 ---
 
